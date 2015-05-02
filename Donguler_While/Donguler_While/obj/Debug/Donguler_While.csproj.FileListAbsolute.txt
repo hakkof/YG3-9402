@@ -1,0 +1,9 @@
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\bin\Debug\Donguler_While.exe.config
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\bin\Debug\Donguler_While.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\bin\Debug\Donguler_While.pdb
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\obj\Debug\Donguler_While.csprojResolveAssemblyReference.cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\obj\Debug\Donguler_While.Form1.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\obj\Debug\Donguler_While.Properties.Resources.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\obj\Debug\Donguler_While.csproj.GenerateResource.Cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\obj\Debug\Donguler_While.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_While\Donguler_While\obj\Debug\Donguler_While.pdb

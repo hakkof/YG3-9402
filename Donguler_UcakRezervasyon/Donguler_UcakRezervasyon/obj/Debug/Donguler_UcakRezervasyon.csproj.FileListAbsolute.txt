@@ -1,0 +1,10 @@
+c:\users\gokhan.sipahi\documents\visual studio 2013\Projects\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\bin\Debug\Donguler_UcakRezervasyon.exe.config
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\bin\Debug\Donguler_UcakRezervasyon.exe.config
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\bin\Debug\Donguler_UcakRezervasyon.exe
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\bin\Debug\Donguler_UcakRezervasyon.pdb
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\obj\Debug\Donguler_UcakRezervasyon.csprojResolveAssemblyReference.cache
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\obj\Debug\Donguler_UcakRezervasyon.Form1.resources
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\obj\Debug\Donguler_UcakRezervasyon.Properties.Resources.resources
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\obj\Debug\Donguler_UcakRezervasyon.csproj.GenerateResource.Cache
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\obj\Debug\Donguler_UcakRezervasyon.exe
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_UcakRezervasyon\Donguler_UcakRezervasyon\obj\Debug\Donguler_UcakRezervasyon.pdb

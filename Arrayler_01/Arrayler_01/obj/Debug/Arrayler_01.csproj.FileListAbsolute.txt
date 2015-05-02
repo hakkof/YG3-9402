@@ -1,0 +1,12 @@
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\bin\Debug\Arrayler_01.exe.config
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\bin\Debug\Arrayler_01.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\bin\Debug\Arrayler_01.pdb
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.csprojResolveAssemblyReference.cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.Form1.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.Properties.Resources.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.csproj.GenerateResource.Cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.pdb
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\bin\Debug\Arrayler_01.exe.config
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.exe
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Arrayler_01\Arrayler_01\obj\Debug\Arrayler_01.pdb

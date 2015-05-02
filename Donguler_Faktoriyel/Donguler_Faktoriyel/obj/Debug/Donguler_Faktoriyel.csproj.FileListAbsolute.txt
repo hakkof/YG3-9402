@@ -1,0 +1,9 @@
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\bin\Debug\Donguler_Faktoriyel.exe.config
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\bin\Debug\Donguler_Faktoriyel.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\bin\Debug\Donguler_Faktoriyel.pdb
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\obj\Debug\Donguler_Faktoriyel.csprojResolveAssemblyReference.cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\obj\Debug\Donguler_Faktoriyel.Form1.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\obj\Debug\Donguler_Faktoriyel.Properties.Resources.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\obj\Debug\Donguler_Faktoriyel.csproj.GenerateResource.Cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\obj\Debug\Donguler_Faktoriyel.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Faktoriyel\Donguler_Faktoriyel\obj\Debug\Donguler_Faktoriyel.pdb

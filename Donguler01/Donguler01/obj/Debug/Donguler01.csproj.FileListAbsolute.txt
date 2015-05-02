@@ -1,0 +1,9 @@
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\bin\Debug\Donguler01.exe.config
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\bin\Debug\Donguler01.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\bin\Debug\Donguler01.pdb
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\obj\Debug\Donguler01.csprojResolveAssemblyReference.cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\obj\Debug\Donguler01.Form1.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\obj\Debug\Donguler01.Properties.Resources.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\obj\Debug\Donguler01.csproj.GenerateResource.Cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\obj\Debug\Donguler01.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler01\Donguler01\obj\Debug\Donguler01.pdb
