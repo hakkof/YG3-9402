@@ -35,13 +35,12 @@
             this.btnKoltuklariYerlestir = new System.Windows.Forms.Button();
             this.scAnaPanel = new System.Windows.Forms.SplitContainer();
             this.pnlSecenekler = new System.Windows.Forms.Panel();
-            this.cbKoltukTipi = new System.Windows.Forms.ComboBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.rbHicbiri = new System.Windows.Forms.RadioButton();
-            this.rbKadin = new System.Windows.Forms.RadioButton();
-            this.label3 = new System.Windows.Forms.Label();
             this.rbErkek = new System.Windows.Forms.RadioButton();
-            this.lbKoltukTipi = new System.Windows.Forms.ListBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.rbKadin = new System.Windows.Forms.RadioButton();
+            this.rbHicbiri = new System.Windows.Forms.RadioButton();
+            this.label4 = new System.Windows.Forms.Label();
+            this.cbKoltukTipi = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.nudXSirasi)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudYSirasi)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.scAnaPanel)).BeginInit();
@@ -129,7 +128,6 @@
             // pnlSecenekler
             // 
             this.pnlSecenekler.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlSecenekler.Controls.Add(this.lbKoltukTipi);
             this.pnlSecenekler.Controls.Add(this.cbKoltukTipi);
             this.pnlSecenekler.Controls.Add(this.label4);
             this.pnlSecenekler.Controls.Add(this.rbHicbiri);
@@ -142,26 +140,34 @@
             this.pnlSecenekler.Size = new System.Drawing.Size(200, 414);
             this.pnlSecenekler.TabIndex = 0;
             // 
-            // cbKoltukTipi
+            // rbErkek
             // 
-            this.cbKoltukTipi.FormattingEnabled = true;
-            this.cbKoltukTipi.Items.AddRange(new object[] {
-            "Pencere",
-            "Koridor"});
-            this.cbKoltukTipi.Location = new System.Drawing.Point(19, 186);
-            this.cbKoltukTipi.Name = "cbKoltukTipi";
-            this.cbKoltukTipi.Size = new System.Drawing.Size(121, 33);
-            this.cbKoltukTipi.TabIndex = 5;
-            this.cbKoltukTipi.SelectedIndexChanged += new System.EventHandler(this.cbKoltukTipi_SelectedIndexChanged);
+            this.rbErkek.AutoSize = true;
+            this.rbErkek.Location = new System.Drawing.Point(19, 40);
+            this.rbErkek.Name = "rbErkek";
+            this.rbErkek.Size = new System.Drawing.Size(86, 30);
+            this.rbErkek.TabIndex = 0;
+            this.rbErkek.Text = "Erkek";
+            this.rbErkek.UseVisualStyleBackColor = true;
             // 
-            // label4
+            // label3
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(3, 157);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(113, 26);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "Koltuk Tipi";
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(3, 4);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(90, 26);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Cinsiyet";
+            // 
+            // rbKadin
+            // 
+            this.rbKadin.AutoSize = true;
+            this.rbKadin.Location = new System.Drawing.Point(19, 76);
+            this.rbKadin.Name = "rbKadin";
+            this.rbKadin.Size = new System.Drawing.Size(86, 30);
+            this.rbKadin.TabIndex = 2;
+            this.rbKadin.Text = "Kadın";
+            this.rbKadin.UseVisualStyleBackColor = true;
             // 
             // rbHicbiri
             // 
@@ -175,48 +181,25 @@
             this.rbHicbiri.Text = "Hiçbiri";
             this.rbHicbiri.UseVisualStyleBackColor = true;
             // 
-            // rbKadin
+            // label4
             // 
-            this.rbKadin.AutoSize = true;
-            this.rbKadin.Location = new System.Drawing.Point(19, 76);
-            this.rbKadin.Name = "rbKadin";
-            this.rbKadin.Size = new System.Drawing.Size(86, 30);
-            this.rbKadin.TabIndex = 2;
-            this.rbKadin.Text = "Kadın";
-            this.rbKadin.UseVisualStyleBackColor = true;
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(3, 157);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(113, 26);
+            this.label4.TabIndex = 4;
+            this.label4.Text = "Koltuk Tipi";
             // 
-            // label3
+            // cbKoltukTipi
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(3, 4);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(90, 26);
-            this.label3.TabIndex = 1;
-            this.label3.Text = "Cinsiyet";
-            // 
-            // rbErkek
-            // 
-            this.rbErkek.AutoSize = true;
-            this.rbErkek.Location = new System.Drawing.Point(19, 40);
-            this.rbErkek.Name = "rbErkek";
-            this.rbErkek.Size = new System.Drawing.Size(86, 30);
-            this.rbErkek.TabIndex = 0;
-            this.rbErkek.Text = "Erkek";
-            this.rbErkek.UseVisualStyleBackColor = true;
-            // 
-            // lbKoltukTipi
-            // 
-            this.lbKoltukTipi.FormattingEnabled = true;
-            this.lbKoltukTipi.ItemHeight = 25;
-            this.lbKoltukTipi.Items.AddRange(new object[] {
-            "Kadın",
-            "Erkek",
-            "Hiçbiri"});
-            this.lbKoltukTipi.Location = new System.Drawing.Point(19, 225);
-            this.lbKoltukTipi.Name = "lbKoltukTipi";
-            this.lbKoltukTipi.Size = new System.Drawing.Size(120, 154);
-            this.lbKoltukTipi.TabIndex = 6;
-            this.lbKoltukTipi.SelectedIndexChanged += new System.EventHandler(this.lbKoltukTipi_SelectedIndexChanged);
+            this.cbKoltukTipi.FormattingEnabled = true;
+            this.cbKoltukTipi.Items.AddRange(new object[] {
+            "Pencere",
+            "Koridor"});
+            this.cbKoltukTipi.Location = new System.Drawing.Point(19, 186);
+            this.cbKoltukTipi.Name = "cbKoltukTipi";
+            this.cbKoltukTipi.Size = new System.Drawing.Size(121, 33);
+            this.cbKoltukTipi.TabIndex = 5;
             // 
             // Form1
             // 
@@ -225,10 +208,9 @@
             this.ClientSize = new System.Drawing.Size(568, 502);
             this.Controls.Add(this.scAnaPanel);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Margin = new System.Windows.Forms.Padding(6);
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nudXSirasi)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudYSirasi)).EndInit();
             this.scAnaPanel.Panel1.ResumeLayout(false);
@@ -257,7 +239,6 @@
         private System.Windows.Forms.RadioButton rbErkek;
         private System.Windows.Forms.ComboBox cbKoltukTipi;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.ListBox lbKoltukTipi;
     }
 }
 
